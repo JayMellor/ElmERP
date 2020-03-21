@@ -1,2 +1,2 @@
 # ElmERP
-An experimental ERP fronted using Elm
+An experimental ERP frontend using Elm
